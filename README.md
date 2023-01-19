@@ -22,4 +22,4 @@
 
 - **Languages**:
 
-!
+![Python](https://github.com/Pandab1/Pandab1/img/python.png)
