@@ -10,4 +10,6 @@
 
 <br>
 
-- test
+- I'm a programming student
+- I'm currently learning at the University of Lille, in France
+- I have some good basis in english
