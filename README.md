@@ -12,4 +12,14 @@
 
 - I'm a programming student
 - I'm currently learning at the University of Lille, in France
-- I have some good basis in english
+- I may be french, but I have some good basis in english
+
+## <img src=https://github.com/Pandab1/Pandab1/img/skills.gif width="25px"><b> Skills</b>
+
+<br>
+
+<p align="center">
+
+- **Languages**:
+
+!
